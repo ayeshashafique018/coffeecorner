@@ -1,0 +1,12 @@
+[
+  { "name": "Caramel Latte", "price": 550, "description": "Rich espresso with caramel and steamed milk." },
+  { "name": "Mocha Bliss", "price": 600, "description": "Chocolate meets coffee in this creamy mocha." },
+  { "name": "Vanilla Cold Brew", "price": 500, "description": "Smooth cold brew with a hint of vanilla." },
+  { "name": "Hazelnut Cappuccino", "price": 570, "description": "Classic cappuccino with hazelnut twist." },
+  { "name": "Iced Americano", "price": 450, "description": "Strong, bold, and chilled coffee." },
+  { "name": "Cinnamon Flat White", "price": 580, "description": "Silky milk foam with a touch of cinnamon." },
+  { "name": "Espresso Shot", "price": 400, "description": "Pure, aromatic espresso shot." },
+  { "name": "Honey Macchiato", "price": 620, "description": "Espresso, milk foam, and honey drizzle." },
+  { "name": "Pumpkin Spice Latte", "price": 650, "description": "Autumn-inspired blend with pumpkin and spice." },
+  { "name": "Almond Iced Mocha", "price": 630, "description": "Iced mocha with almond milk and cocoa." }
+]
