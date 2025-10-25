@@ -28,10 +28,6 @@
 
 ---
 
-## 📸 Preview  
-*(You can add screenshots later)*  
-![Coffee Corner Preview](https://i.imgur.com/WXq4ZBY.jpg)  
-
 ---
 
 ## 🚀 How to Run Locally  
