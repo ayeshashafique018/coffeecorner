@@ -3,6 +3,8 @@
 ### 🌿 A cozy and responsive coffee shop web app brewed with love — featuring menu browsing, search, cart system, and live bill receipts.  
 
 ---
+<h2>Live Demo</h2>
+<p><a href="https://coffeecorner-phi.vercel.app/#about" target="_blank">View Live Site</a></p>
 
 ## 🪄 Features  
 - 🧋 **Dynamic Menu:** Displays coffee and beverage items fetched from JSON.  
