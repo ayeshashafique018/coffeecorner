@@ -15,7 +15,15 @@
 - 🧾 **Receipt Animation:** Bill section appears smoothly when payment is confirmed.  
 - 🧭 **Navigation Bar & About Section:** Fully designed front page with info about the café.  
 
----
+---OUTPUT 
+<img width="900" height="377" alt="image" src="https://github.com/user-attachments/assets/5c26d204-baab-449f-921b-2c853413f30d" />
+<img width="900" height="393" alt="image" src="https://github.com/user-attachments/assets/2059a01c-4e01-4f0e-9df3-8cd879c0fd7d" />
+<img width="900" height="401" alt="image" src="https://github.com/user-attachments/assets/b537917f-622a-4012-a3c2-3dd2dba5e4af" />
+<img width="900" height="272" alt="image" src="https://github.com/user-attachments/assets/6557a7cb-8d2b-487d-855c-6418a6fd7a88" />
+<img width="900" height="239" alt="image" src="https://github.com/user-attachments/assets/df04fcf4-a3d7-457d-a386-84914b7c6d2d" />
+<img width="900" height="229" alt="image" src="https://github.com/user-attachments/assets/eb5a0741-35d3-4c72-9a10-84ac00fdf5c1" />
+<img width="595" height="785" alt="image" src="https://github.com/user-attachments/assets/a5002ead-00e1-47ef-b7a2-9e20b7a68849" />
+
 
 ## 🖥️ Tech Stack  
 | Technology | Purpose |
